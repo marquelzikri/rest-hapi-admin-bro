@@ -1,0 +1,10 @@
+.idea/
+node_modules
+
+# OSX files
+*.DS_Store
+.env
+
+.adminbro/
+
+package-lock.json
