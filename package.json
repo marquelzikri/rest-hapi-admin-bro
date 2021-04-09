@@ -1,11 +1,11 @@
 {
   "name": "rest-hapi-admin-bro",
-  "version": "2.0.0",
+  "version": "0.0.1",
   "description": "A simple demonstration of the rest-hapi plugin and @admin-bro/hapi plugin.",
-  "main": "api.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node api.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "author": "Justin Headley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JKHeadley/rest-hapi-demo/issues"
+    "url": "https://github.com/marquelzikri/rest-hapi-admin-bro/issues"
   },
   "homepage": "https://github.com/JKHeadley/rest-hapi-demo#readme",
   "dependencies": {
