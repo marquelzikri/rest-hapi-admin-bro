@@ -16,6 +16,10 @@ install the dependencies
 ```
 $ npm install
 ```
+copy env file
+```
+$ cp .env.example .env
+```
 
 seed the models
 - Local db
